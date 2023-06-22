@@ -1,0 +1,130 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #282C34;
+}
+
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    padding-left: 20px;
+    
+}
+
+div{
+    max-width: 1200px;
+    height: auto;
+    margin: auto;
+    align-content: inline;
+    display: flex;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    max-height: 1500px;
+    border-radius: 30px;
+    background-color:#FFFFFF;
+    line-height: 30px;
+    justify-content: center;
+    
+}
+
+/* .nav{
+    display: flex;
+    padding-right: 10px;
+    list-style: none; 
+    background-color: #282C34;  
+    text-decoration: none; 
+} */
+
+/* ul li a{
+    text-decoration: none;
+    text-align: center;
+    outline: none;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 10px;
+    background-color: black;
+    justify-content: center;
+    align-content: inline;
+} */
+
+/* ul li a:hover{
+    background: #ef8354;
+} */
+
+p{
+    background-color:#FFFFFF;
+    padding: 10px;
+    margin: auto;
+    width: 200px;
+}
+
+.textos{
+    align-content: inline;
+}
+
+.contacto{
+    max-height: 400px;
+}
+
+ul{
+    background-color: #FFFFFF;
+}
+
+strong{
+    background-color: #FFFFFF;
+}
+
+h2{
+    color: #FFFFFF;
+}
+
+a img{
+    width: 340px;
+    margin: auto;
+    height: 400px;
+    background-color: #FFFFFF;
+}
+
+.footer{
+    color: orange;
+    width: 100px;
+    height: max-content;
+}
+
+li{
+    text-decoration: none;
+}
+
+div ul li{
+    background-color: #FFFFFF;
+    align-content: inline;
+    
+}
+
+.buttons {
+    min-width: 700px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: #314652;
+    color: #f1f1f1;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out;
+    margin: 10px;
+  }
+  
+  .buttons a:hover {
+    transform: scale(1.2);
+  }
+
